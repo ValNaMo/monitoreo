@@ -1,4 +1,4 @@
-const API_URL = 'http://44.204.121.80:5000/api/devices';
+const API_URL = 'http://44.204.248.225:5000/api/devices';
 const tablaBody = document.getElementById('tablaDatos');
 const statusActual = document.getElementById('statusActual');
 
